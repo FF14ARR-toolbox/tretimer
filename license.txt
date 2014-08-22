@@ -1,0 +1,11 @@
+Coming soon page Copyright 2012 soundarapandian
+
+In this template I used some Plugins and Frameworks. All plugins and frameworks are free and Open-Source.
+
+Bootstrap - http://twitter.github.com/bootstrap/
+jQuery - http://jquery.com/
+Font Awesome - http://fortawesome.github.com/Font-Awesome/
+Jquery Countdown - http://keith-wood.name/countdown.html
+
+Images credits goes for FreeImagesCollection.For more images visit
+http://freeimagescollection.com
